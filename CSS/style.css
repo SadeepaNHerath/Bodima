@@ -1,0 +1,45 @@
+body{
+    background-color: azure;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+#sinhala{
+    font-family: Stick No Bills, sans-serif;
+    color: black;
+    text-align: center;
+    padding: 5px ;
+    border: 5px solid;
+    border-color: red;
+}
+.heading{
+    font-size: xx-large;
+}
+header{
+    width: 100%;
+    height: auto;
+    background-color: gray;
+    position: sticky;
+    z-index: -1;
+
+}
+td{
+    padding: 10px;
+}
+*{
+    color: black;
+}
+footer{
+    position: fixed;
+    height: 100px;
+    width: 100px;
+    left: 95%;
+    bottom: 1%;
+    z-index: 0;
+}
+.box2{
+    position: relative;
+    top: 0%;
+
+}
